@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: <UTF-8> -*-
 # By:lrh1999
 # Email:lrh2201299058@outlook.com
